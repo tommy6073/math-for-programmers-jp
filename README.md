@@ -19,7 +19,7 @@ AI、ゲームプログラミングなどは元より、プログラミング全
 
 非同期的な質問や議論には、このリポジトリの[Dicussions](https://github.com/tommy6073/math-for-programmers-jp/discussions)を使います。
 
-同期的なコミュニケーションには[Discord](https://discord.com/)を使います。参加したい場合は[@tommy6073](https://twitter.com/tommy6073)までDMをください。招待リンクをお送りします。
+同期的なコミュニケーションには[Discord](https://discord.com/)を使います。[招待リンク](https://discord.gg/Q2d3PVCYEF)からご参加ください。
 
 ## リソース集
 
