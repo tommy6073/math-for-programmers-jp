@@ -56,7 +56,7 @@ AI、ゲームプログラミングなどは元より、プログラミング全
 #### 全般
 
 - [Khan Academy](https://www.khanacademy.org/) - 無料で小学校から大学レベルまで幅広く学べる講座と練習のコース
-- [Mathematics for Machine Learning and Data Science Specialization](https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/)
+- [Mathematics for Machine Learning and Data Science Specialization](https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/) - 機械学習とデータサイエンスのための一連のコース
 
 #### 大学
 
