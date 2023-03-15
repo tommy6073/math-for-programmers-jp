@@ -61,7 +61,7 @@ AI、ゲームプログラミングなどは元より、プログラミング全
 #### 大学
 
 ##### 線形代数
-- [Linear Algebra | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
+- [Linear Algebra | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) - Gilbert Strang教授によるコース
 
 ##### 微積分
 
@@ -70,7 +70,7 @@ AI、ゲームプログラミングなどは元より、プログラミング全
 
 ##### 確率
 
-- [Introduction to Probability | edX](https://www.edx.org/course/introduction-to-probability)
+- [Introduction to Probability | edX](https://www.edx.org/course/introduction-to-probability) - ハーバード大学によるデータ分析と統計のコース
 
 ### 🧰 ツール
 
