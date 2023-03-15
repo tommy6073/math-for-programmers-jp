@@ -62,6 +62,6 @@ AI、ゲームプログラミングなどは元より、プログラミング全
 - [Introduction to Probability | edX](https://www.edx.org/course/introduction-to-probability)
 - [Mathematics for Machine Learning and Data Science Specialization](https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/)
 
-### ツール
+### 🧰 ツール
 
 - [Wolfram|Alpha](https://www.wolframalpha.com/) - 計算知識エンジン
