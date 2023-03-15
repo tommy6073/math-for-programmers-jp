@@ -13,13 +13,13 @@ AI、ゲームプログラミングなどは元より、プログラミング全
 ### リソース
 
 このREADME自体がプログラマーが数学を学ぶためのリソース集となっています。  
-リソースの追加などの編集を行いたい場合、このREADMEを変更したPull requestを作成して編集のリクエストを送ってください。
+リソースの追加などの編集を行いたい場合、[このREADMEを編集](https://github.com/tommy6073/math-for-programmers-jp/edit/main/README.md)したPull requestを作成して編集のリクエストを送ってください。
 
 ### コミュニティ
 
-非同期的な質問や議論には、このリポジトリのDicussionsを使います。
+非同期的な質問や議論には、このリポジトリの[Dicussions](https://github.com/tommy6073/math-for-programmers-jp/discussions)を使います。
 
-同期的なコミュニケーションにはDiscordを使います。参加したい場合は[@tommy6073](https://twitter.com/tommy6073)までDMをください。招待リンクをお送りします。
+同期的なコミュニケーションには[Discord](https://discord.com/)を使います。参加したい場合は[@tommy6073](https://twitter.com/tommy6073)までDMをください。招待リンクをお送りします。
 
 ## リソース目次
 
