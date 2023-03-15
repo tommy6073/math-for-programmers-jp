@@ -38,6 +38,8 @@ AI、ゲームプログラミングなどは元より、プログラミング全
 
 #### 大学
 
+##### 線形代数
+
 - [プログラミングのための線形代数](https://www.ohmsha.co.jp/book/9784274065781/) - コンピュータサイエンスに携わる人のために書かれた線形代数の教科書
 
 #### 読み物
@@ -54,14 +56,21 @@ AI、ゲームプログラミングなどは元より、プログラミング全
 #### 全般
 
 - [Khan Academy](https://www.khanacademy.org/) - 無料で小学校から大学レベルまで幅広く学べる講座と練習のコース
+- [Mathematics for Machine Learning and Data Science Specialization](https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/)
 
 #### 大学
 
+##### 線形代数
 - [Linear Algebra | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
+
+##### 微積分
+
 - [Single Variable Calculus | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/)
 - [Multivariable Calculus | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
+
+##### 確率
+
 - [Introduction to Probability | edX](https://www.edx.org/course/introduction-to-probability)
-- [Mathematics for Machine Learning and Data Science Specialization](https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/)
 
 ### 🧰 ツール
 
